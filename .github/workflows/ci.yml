@@ -32,6 +32,9 @@ jobs:
       - run: pip install -r requirements-dev.txt
       - run: ruff check .
       - run: ruff format --check .
-      - run: pytest -m "not integration"
-      - run: pytest -m integration --no-cov
-
+      - run: python -m pytest -m "not integration"
+        env:
+          PYTHONPATH: .
+      - run: python -m pytest -m integration --no-cov
+        env:
+          PYTHONPATH: .
