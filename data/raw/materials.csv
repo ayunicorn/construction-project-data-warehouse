@@ -1,0 +1,13 @@
+material_id,material_name,category,unit,unit_cost_myr,supplier_name
+MAT001,Ready-Mix Concrete Grade 40,Concrete,m3,365.0,Supplier A Sdn Bhd
+MAT002,Reinforcement Steel Y16,Steel,tonne,3150.0,Supplier B Sdn Bhd
+MAT003,Structural Steel,Steel,tonne,4800.0,Supplier C Sdn Bhd
+MAT004,Cement OPC,Cement,bag,22.5,Supplier D Sdn Bhd
+MAT005,River Sand,Aggregate,tonne,48.0,Supplier E Sdn Bhd
+MAT006,Crusher Run,Aggregate,tonne,52.0,Supplier F Sdn Bhd
+MAT007,Precast Beam,Precast,unit,14500.0,Supplier G Sdn Bhd
+MAT008,HDPE Pipe 600mm,Utilities,metre,720.0,Supplier H Sdn Bhd
+MAT009,Electrical Cable 240mm,Electrical,metre,185.0,Supplier I Sdn Bhd
+MAT010,Safety Barrier,Safety,unit,295.0,Supplier J Sdn Bhd
+MAT011,Asphalt Wearing Course,Roadworks,tonne,280.0,Supplier K Sdn Bhd
+MAT012,Glass Curtain Wall Panel,Finishes,m2,1250.0,Supplier L Sdn Bhd

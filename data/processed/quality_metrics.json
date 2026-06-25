@@ -1,0 +1,48 @@
+{
+  "run_id": "afd43d17-3a65-473d-913e-dae79e50fb1b",
+  "warehouse_target": "postgresql",
+  "generated_at": "2026-06-21T09:32:50.009657+00:00",
+  "input_rows": 18206,
+  "accepted_rows": 18203,
+  "rejected_rows": 3,
+  "reject_ratio": 0.000165,
+  "passed": true,
+  "checks": [
+    {
+      "name": "unique_project_date",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "One progress record per project and date"
+    },
+    {
+      "name": "progress_in_range",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "Planned and actual progress remain within configured bounds"
+    },
+    {
+      "name": "costs_non_negative",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "Planned and actual costs cannot be negative"
+    },
+    {
+      "name": "equipment_hours_in_range",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "Operating hours remain within configured bounds"
+    },
+    {
+      "name": "required_foreign_keys_present",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "Required warehouse foreign keys resolve to dimensions"
+    },
+    {
+      "name": "reject_ratio_below_threshold",
+      "passed": true,
+      "failed_rows": 0,
+      "description": "Rejected rows must be below 5.00%"
+    }
+  ]
+}

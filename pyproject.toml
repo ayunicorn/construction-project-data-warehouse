@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "construction-project-data-warehouse"
+version = "1.0.0"
+description = "Production-style construction project ETL and PostgreSQL data warehouse"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas==2.3.0",
+  "numpy==2.3.1",
+  "SQLAlchemy==2.0.41",
+  "psycopg2-binary==2.9.10",
+  "python-dotenv==1.1.1",
+  "PyYAML==6.0.2",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest==8.4.1",
+  "pytest-cov==6.2.1",
+  "ruff==0.12.0",
+  "pre-commit==4.2.0",
+]
+snowflake = ["snowflake-connector-python[pandas]>=3.16,<5"]
+
+[project.scripts]
+construction-generate = "src.generate_data:main"
+construction-etl = "src.pipeline:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+addopts = "-q --cov=src --cov-report=term-missing"
+testpaths = ["tests"]
+markers = ["integration: tests requiring a running PostgreSQL instance"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101"]

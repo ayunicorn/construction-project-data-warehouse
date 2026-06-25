@@ -1,0 +1,151 @@
+worker_id,worker_name,contractor_id,trade,skill_level,employment_type
+WRK0001,Wei Jian Ong,CON003,Crane Operator,Skilled,Contract
+WRK0002,Farid Lee,CON014,Safety Officer,Supervisor,Permanent
+WRK0003,Farid Tan,CON020,Welder,Senior,Permanent
+WRK0004,Mei Ling Hassan,CON018,General Worker,Skilled,Subcontract
+WRK0005,Kumar Kaur,CON006,Site Supervisor,Supervisor,Permanent
+WRK0006,Kumar Lee,CON010,Site Supervisor,Senior,Permanent
+WRK0007,Mei Ling Singh,CON011,Surveyor,Skilled,Contract
+WRK0008,Nurul Tan,CON005,Safety Officer,Senior,Contract
+WRK0009,Aiman Ismail,CON006,Carpenter,Skilled,Contract
+WRK0010,Farid Ong,CON005,Welder,Supervisor,Contract
+WRK0011,Amir Yusof,CON020,Electrician,Senior,Permanent
+WRK0012,Nurul Tan,CON015,Surveyor,Senior,Permanent
+WRK0013,Nurul Lim,CON017,Carpenter,Apprentice,Subcontract
+WRK0014,Mei Ling Abdullah,CON017,Welder,Senior,Contract
+WRK0015,Daniel Ismail,CON020,Site Supervisor,Apprentice,Contract
+WRK0016,Farid Ong,CON003,Safety Officer,Skilled,Contract
+WRK0017,Aiman Kaur,CON018,Site Supervisor,Skilled,Subcontract
+WRK0018,Farid Lee,CON002,General Worker,Senior,Permanent
+WRK0019,Siti Singh,CON010,Plumber,Skilled,Contract
+WRK0020,Kumar Abdullah,CON012,Electrician,Supervisor,Contract
+WRK0021,Amir Abdullah,CON008,Plumber,Senior,Contract
+WRK0022,Amir Lee,CON003,Safety Officer,Apprentice,Subcontract
+WRK0023,Siti Rahman,CON004,Safety Officer,Apprentice,Contract
+WRK0024,Mei Ling Singh,CON017,Carpenter,Apprentice,Subcontract
+WRK0025,Mei Ling Rahman,CON007,Safety Officer,Skilled,Subcontract
+WRK0026,Hafiz Yusof,CON007,Surveyor,Senior,Contract
+WRK0027,Hafiz Lim,CON019,Site Supervisor,Skilled,Subcontract
+WRK0028,Siti Ismail,CON003,Carpenter,Senior,Contract
+WRK0029,Nurul Ismail,CON019,Site Supervisor,Apprentice,Subcontract
+WRK0030,Hafiz Abdullah,CON019,Plumber,Senior,Contract
+WRK0031,Mei Ling Ismail,CON012,Surveyor,Supervisor,Contract
+WRK0032,Kumar Hassan,CON004,Electrician,Senior,Contract
+WRK0033,Azlan Abdullah,CON004,Plumber,Senior,Permanent
+WRK0034,Farid Lim,CON006,Plumber,Senior,Contract
+WRK0035,Siti Abdullah,CON012,Electrician,Apprentice,Subcontract
+WRK0036,Kumar Rahman,CON004,General Worker,Skilled,Contract
+WRK0037,Amir Hassan,CON010,Crane Operator,Skilled,Permanent
+WRK0038,Farid Yusof,CON003,Site Supervisor,Skilled,Contract
+WRK0039,Farid Kaur,CON011,Crane Operator,Senior,Permanent
+WRK0040,Aiman Rahman,CON001,Surveyor,Skilled,Permanent
+WRK0041,Kumar Yusof,CON015,Plumber,Senior,Subcontract
+WRK0042,Nurul Yusof,CON002,Surveyor,Skilled,Contract
+WRK0043,Farid Hassan,CON004,Plumber,Senior,Contract
+WRK0044,Amir Abdullah,CON004,Plumber,Skilled,Contract
+WRK0045,Daniel Yusof,CON017,Carpenter,Skilled,Permanent
+WRK0046,Mei Ling Tan,CON002,Welder,Senior,Contract
+WRK0047,Azlan Lim,CON009,Surveyor,Supervisor,Contract
+WRK0048,Daniel Yusof,CON012,Site Supervisor,Skilled,Contract
+WRK0049,Raj Singh,CON011,Carpenter,Apprentice,Subcontract
+WRK0050,Kumar Rahman,CON014,Carpenter,Skilled,Contract
+WRK0051,Wei Jian Ong,CON017,Site Supervisor,Apprentice,Contract
+WRK0052,Aiman Ong,CON008,Safety Officer,Senior,Subcontract
+WRK0053,Daniel Ismail,CON017,Electrician,Senior,Subcontract
+WRK0054,Kumar Abdullah,CON007,Electrician,Skilled,Contract
+WRK0055,Kumar Ismail,CON020,Electrician,Apprentice,Subcontract
+WRK0056,Siti Lee,CON011,Site Supervisor,Skilled,Subcontract
+WRK0057,Amir Lim,CON015,Carpenter,Supervisor,Subcontract
+WRK0058,Hafiz Lee,CON018,Site Supervisor,Skilled,Permanent
+WRK0059,Nurul Lee,CON016,Crane Operator,Senior,Contract
+WRK0060,Azlan Kaur,CON018,Crane Operator,Skilled,Contract
+WRK0061,Kumar Ismail,CON011,Safety Officer,Skilled,Contract
+WRK0062,Siti Hassan,CON001,Site Supervisor,Skilled,Contract
+WRK0063,Azlan Tan,CON010,Surveyor,Supervisor,Subcontract
+WRK0064,Hafiz Rahman,CON004,Surveyor,Skilled,Subcontract
+WRK0065,Amir Abdullah,CON018,Plumber,Skilled,Contract
+WRK0066,Daniel Singh,CON005,Surveyor,Senior,Contract
+WRK0067,Kumar Ong,CON005,Site Supervisor,Skilled,Contract
+WRK0068,Farid Kaur,CON005,Crane Operator,Supervisor,Contract
+WRK0069,Azlan Lim,CON013,Welder,Skilled,Permanent
+WRK0070,Hafiz Hassan,CON012,Site Supervisor,Skilled,Permanent
+WRK0071,Siti Lim,CON019,Electrician,Skilled,Subcontract
+WRK0072,Siti Yusof,CON009,Plumber,Skilled,Contract
+WRK0073,Raj Tan,CON006,General Worker,Skilled,Subcontract
+WRK0074,Azlan Hassan,CON001,Electrician,Skilled,Contract
+WRK0075,Hafiz Ismail,CON001,Surveyor,Skilled,Subcontract
+WRK0076,Daniel Rahman,CON008,Electrician,Skilled,Contract
+WRK0077,Kumar Singh,CON019,Surveyor,Skilled,Subcontract
+WRK0078,Azlan Hassan,CON011,Carpenter,Skilled,Permanent
+WRK0079,Amir Ong,CON018,Crane Operator,Skilled,Contract
+WRK0080,Amir Kaur,CON003,Safety Officer,Skilled,Subcontract
+WRK0081,Raj Ong,CON002,Surveyor,Skilled,Subcontract
+WRK0082,Hafiz Ong,CON017,Crane Operator,Skilled,Subcontract
+WRK0083,Amir Yusof,CON003,Plumber,Skilled,Permanent
+WRK0084,Farid Lim,CON002,Surveyor,Skilled,Contract
+WRK0085,Aiman Kaur,CON009,Welder,Apprentice,Permanent
+WRK0086,Wei Jian Lee,CON019,Safety Officer,Skilled,Permanent
+WRK0087,Wei Jian Singh,CON014,Surveyor,Skilled,Contract
+WRK0088,Raj Ismail,CON002,Steel Fixer,Skilled,Contract
+WRK0089,Nurul Kaur,CON017,Surveyor,Skilled,Subcontract
+WRK0090,Wei Jian Tan,CON017,General Worker,Skilled,Subcontract
+WRK0091,Aiman Hassan,CON017,General Worker,Senior,Contract
+WRK0092,Azlan Tan,CON019,Surveyor,Skilled,Subcontract
+WRK0093,Aiman Ismail,CON005,Safety Officer,Senior,Permanent
+WRK0094,Aiman Ong,CON020,Welder,Skilled,Permanent
+WRK0095,Raj Ismail,CON007,Surveyor,Senior,Contract
+WRK0096,Nurul Ismail,CON017,Steel Fixer,Skilled,Subcontract
+WRK0097,Wei Jian Abdullah,CON012,Site Supervisor,Skilled,Permanent
+WRK0098,Nurul Ong,CON016,Steel Fixer,Skilled,Contract
+WRK0099,Aiman Tan,CON013,Steel Fixer,Skilled,Contract
+WRK0100,Kumar Lim,CON013,Electrician,Skilled,Permanent
+WRK0101,Azlan Kaur,CON013,Plumber,Senior,Contract
+WRK0102,Kumar Hassan,CON016,Electrician,Senior,Subcontract
+WRK0103,Farid Yusof,CON015,Carpenter,Supervisor,Contract
+WRK0104,Farid Ismail,CON003,Plumber,Skilled,Permanent
+WRK0105,Azlan Rahman,CON017,Site Supervisor,Skilled,Subcontract
+WRK0106,Hafiz Tan,CON011,Crane Operator,Senior,Contract
+WRK0107,Kumar Ismail,CON007,Surveyor,Skilled,Subcontract
+WRK0108,Aiman Lee,CON011,Steel Fixer,Senior,Contract
+WRK0109,Azlan Ismail,CON020,Electrician,Skilled,Contract
+WRK0110,Kumar Yusof,CON018,Surveyor,Skilled,Contract
+WRK0111,Azlan Lee,CON017,Electrician,Apprentice,Contract
+WRK0112,Mei Ling Abdullah,CON010,Site Supervisor,Senior,Subcontract
+WRK0113,Farid Tan,CON016,Plumber,Apprentice,Permanent
+WRK0114,Raj Kaur,CON008,Plumber,Skilled,Permanent
+WRK0115,Aiman Lee,CON014,Steel Fixer,Skilled,Contract
+WRK0116,Amir Kaur,CON013,Surveyor,Skilled,Contract
+WRK0117,Mei Ling Ismail,CON005,Safety Officer,Skilled,Subcontract
+WRK0118,Farid Ismail,CON006,Crane Operator,Senior,Subcontract
+WRK0119,Daniel Hassan,CON002,Electrician,Apprentice,Contract
+WRK0120,Aiman Singh,CON003,Steel Fixer,Senior,Contract
+WRK0121,Azlan Lim,CON009,Safety Officer,Senior,Permanent
+WRK0122,Amir Yusof,CON010,Plumber,Skilled,Contract
+WRK0123,Daniel Lee,CON004,Carpenter,Skilled,Subcontract
+WRK0124,Kumar Hassan,CON009,Surveyor,Skilled,Contract
+WRK0125,Daniel Lim,CON013,General Worker,Skilled,Contract
+WRK0126,Azlan Hassan,CON005,Plumber,Skilled,Contract
+WRK0127,Farid Rahman,CON007,Crane Operator,Supervisor,Subcontract
+WRK0128,Siti Abdullah,CON008,Electrician,Supervisor,Contract
+WRK0129,Amir Abdullah,CON011,Welder,Senior,Permanent
+WRK0130,Raj Ismail,CON008,General Worker,Skilled,Contract
+WRK0131,Nurul Ismail,CON015,General Worker,Senior,Permanent
+WRK0132,Nurul Singh,CON007,Safety Officer,Senior,Permanent
+WRK0133,Aiman Hassan,CON009,Electrician,Skilled,Permanent
+WRK0134,Amir Abdullah,CON008,Electrician,Skilled,Contract
+WRK0135,Hafiz Hassan,CON004,Crane Operator,Apprentice,Contract
+WRK0136,Nurul Kaur,CON014,Site Supervisor,Skilled,Contract
+WRK0137,Farid Yusof,CON005,Carpenter,Skilled,Contract
+WRK0138,Siti Kaur,CON006,Safety Officer,Skilled,Subcontract
+WRK0139,Raj Rahman,CON016,Site Supervisor,Skilled,Subcontract
+WRK0140,Siti Ismail,CON019,Carpenter,Senior,Contract
+WRK0141,Kumar Ong,CON014,Carpenter,Supervisor,Contract
+WRK0142,Kumar Kaur,CON019,Crane Operator,Skilled,Subcontract
+WRK0143,Farid Tan,CON018,Surveyor,Senior,Permanent
+WRK0144,Wei Jian Yusof,CON010,General Worker,Supervisor,Contract
+WRK0145,Mei Ling Abdullah,CON016,Crane Operator,Skilled,Subcontract
+WRK0146,Azlan Ong,CON007,Welder,Skilled,Contract
+WRK0147,Mei Ling Abdullah,CON010,Plumber,Skilled,Contract
+WRK0148,Kumar Singh,CON011,Crane Operator,Apprentice,Contract
+WRK0149,Amir Singh,CON020,Steel Fixer,Senior,Contract
+WRK0150,Azlan Singh,CON017,Crane Operator,Skilled,Contract

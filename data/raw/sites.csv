@@ -1,0 +1,13 @@
+site_id,project_id,site_name,city,state,latitude,longitude,site_area_hectares
+SITE001,PRJ001,Kota Emerald Transit Hub Main Site,Rawang,Selangor,3.3191583608891846,101.57493933224757,46.47
+SITE002,PRJ002,Sungai Besi Urban Residences Main Site,Kuala Lumpur,W.P. Kuala Lumpur,3.06402722032182,101.71006366305798,66.16
+SITE003,PRJ003,Penang South Coastal Link Main Site,Bayan Lepas,Pulau Pinang,5.307708238004352,100.27496792491807,33.65
+SITE004,PRJ004,Cyberjaya Green Tech Park Main Site,Cyberjaya,Selangor,2.9172311363587604,101.65897989711289,21.24
+SITE005,PRJ005,Rawang Integrated Township Phase 2 Main Site,Rawang,Selangor,3.3364302627117257,101.56779921761519,24.65
+SITE006,PRJ006,Shah Alam Flood Mitigation Works Main Site,Shah Alam,Selangor,3.0770529639391233,101.52201627085601,79.77
+SITE007,PRJ007,Johor Bahru Rapid Transit Depot Main Site,Johor Bahru,Johor,1.4868440241481873,103.74411577134153,79.74
+SITE008,PRJ008,Klang Valley Hospital Expansion Main Site,Kuala Lumpur,W.P. Kuala Lumpur,3.1721608066153335,101.7025834290457,30.24
+SITE009,PRJ009,Seremban Industrial Logistics Park Main Site,Seremban,Negeri Sembilan,2.7301571438897407,101.94351797774388,22.19
+SITE010,PRJ010,Puchong Smart Office Campus Main Site,Puchong,Selangor,3.033037895347445,101.62024559699344,64.5
+SITE011,PRJ011,Kuantan Port Access Upgrade Main Site,Kuantan,Pahang,3.8004142209007217,103.32440164391821,45.76
+SITE012,PRJ012,Iskandar Affordable Housing Precinct Main Site,Iskandar Puteri,Johor,1.4168056107587832,103.62862428874386,14.42

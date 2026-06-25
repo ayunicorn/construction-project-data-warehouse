@@ -1,0 +1,13 @@
+project_id,project_name,project_type,status,start_date,planned_end_date,budget_myr,client_name
+PRJ001,Kota Emerald Transit Hub,Infrastructure,In Progress,2024-01-15,2027-08-07,986658796.57,State Authority
+PRJ002,Sungai Besi Urban Residences,Residential,In Progress,2024-03-01,2027-06-14,596293382.31,State Authority
+PRJ003,Penang South Coastal Link,Infrastructure,In Progress,2023-07-10,2026-04-28,1085266576.7,MRT Corp
+PRJ004,Cyberjaya Green Tech Park,Commercial,In Progress,2024-06-01,2028-01-22,897433753.85,Private Developer
+PRJ005,Rawang Integrated Township Phase 2,Township,In Progress,2024-01-15,2027-02-16,194716610.29,Gamuda Land
+PRJ006,Shah Alam Flood Mitigation Works,Infrastructure,In Progress,2024-03-01,2027-01-18,1221600039.66,Private Developer
+PRJ007,Johor Bahru Rapid Transit Depot,Infrastructure,In Progress,2023-07-10,2026-06-02,971727752.82,Private Developer
+PRJ008,Klang Valley Hospital Expansion,Healthcare,In Progress,2024-06-01,2026-11-13,1000764915.65,MRT Corp
+PRJ009,Seremban Industrial Logistics Park,Industrial,In Progress,2024-01-15,2026-03-22,234252382.07,Gamuda Land
+PRJ010,Puchong Smart Office Campus,Commercial,In Progress,2024-03-01,2027-04-09,609699617.65,State Authority
+PRJ011,Kuantan Port Access Upgrade,Infrastructure,At Risk,2023-07-10,2027-04-18,516979698.23,JKR Malaysia
+PRJ012,Iskandar Affordable Housing Precinct,Residential,In Progress,2024-06-01,2026-07-17,1164681212.01,State Authority

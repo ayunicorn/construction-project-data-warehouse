@@ -1,0 +1,61 @@
+equipment_id,equipment_name,equipment_type,manufacturer,model,ownership_type,status,hourly_rate_myr
+EQP001,Excavator Unit 01,Excavator,SANY,M824,Rented,In Use,225.62
+EQP002,Tower Crane Unit 02,Tower Crane,Komatsu,M446,Rented,In Use,241.65
+EQP003,Mobile Crane Unit 03,Mobile Crane,Hitachi,M237,Owned,In Use,742.83
+EQP004,Bulldozer Unit 04,Bulldozer,Hitachi,M240,Owned,Available,783.56
+EQP005,Compactor Unit 05,Compactor,Komatsu,M873,Leased,Available,251.23
+EQP006,Concrete Pump Unit 06,Concrete Pump,Komatsu,M288,Owned,In Use,447.05
+EQP007,Generator Unit 07,Generator,Hitachi,M702,Owned,Available,647.46
+EQP008,Dump Truck Unit 08,Dump Truck,JCB,M503,Owned,Available,757.56
+EQP009,Excavator Unit 09,Excavator,Caterpillar,M814,Owned,In Use,378.08
+EQP010,Tower Crane Unit 10,Tower Crane,Komatsu,M247,Rented,In Use,482.93
+EQP011,Mobile Crane Unit 11,Mobile Crane,Caterpillar,M909,Owned,In Use,653.7
+EQP012,Bulldozer Unit 12,Bulldozer,Volvo,M751,Owned,In Use,645.66
+EQP013,Compactor Unit 13,Compactor,Komatsu,M554,Rented,In Use,685.05
+EQP014,Concrete Pump Unit 14,Concrete Pump,SANY,M363,Owned,In Use,523.15
+EQP015,Generator Unit 15,Generator,Liebherr,M971,Rented,Available,169.51
+EQP016,Dump Truck Unit 16,Dump Truck,SANY,M438,Owned,Available,777.02
+EQP017,Excavator Unit 17,Excavator,Liebherr,M587,Owned,In Use,747.84
+EQP018,Tower Crane Unit 18,Tower Crane,Volvo,M511,Owned,Available,696.55
+EQP019,Mobile Crane Unit 19,Mobile Crane,JCB,M382,Rented,In Use,165.9
+EQP020,Bulldozer Unit 20,Bulldozer,Volvo,M529,Leased,Maintenance,245.34
+EQP021,Compactor Unit 21,Compactor,JCB,M319,Leased,Available,655.14
+EQP022,Concrete Pump Unit 22,Concrete Pump,JCB,M201,Owned,Available,107.59
+EQP023,Generator Unit 23,Generator,Liebherr,M429,Owned,Maintenance,834.21
+EQP024,Dump Truck Unit 24,Dump Truck,Liebherr,M288,Leased,In Use,376.63
+EQP025,Excavator Unit 25,Excavator,Komatsu,M527,Owned,Available,636.68
+EQP026,Tower Crane Unit 26,Tower Crane,SANY,M881,Leased,In Use,764.55
+EQP027,Mobile Crane Unit 27,Mobile Crane,Liebherr,M328,Rented,In Use,389.92
+EQP028,Bulldozer Unit 28,Bulldozer,JCB,M200,Rented,In Use,332.54
+EQP029,Compactor Unit 29,Compactor,Komatsu,M287,Leased,In Use,552.64
+EQP030,Concrete Pump Unit 30,Concrete Pump,SANY,M601,Owned,In Use,531.55
+EQP031,Generator Unit 31,Generator,Volvo,M417,Owned,Available,400.95
+EQP032,Dump Truck Unit 32,Dump Truck,Komatsu,M586,Rented,In Use,547.35
+EQP033,Excavator Unit 33,Excavator,Komatsu,M223,Leased,In Use,800.89
+EQP034,Tower Crane Unit 34,Tower Crane,Volvo,M463,Leased,In Use,445.41
+EQP035,Mobile Crane Unit 35,Mobile Crane,Hitachi,M524,Leased,In Use,239.52
+EQP036,Bulldozer Unit 36,Bulldozer,Caterpillar,M540,Owned,Available,376.68
+EQP037,Compactor Unit 37,Compactor,Hitachi,M635,Rented,In Use,389.52
+EQP038,Concrete Pump Unit 38,Concrete Pump,Liebherr,M816,Rented,In Use,189.64
+EQP039,Generator Unit 39,Generator,Hitachi,M569,Rented,In Use,213.78
+EQP040,Dump Truck Unit 40,Dump Truck,JCB,M864,Rented,In Use,610.27
+EQP041,Excavator Unit 41,Excavator,SANY,M618,Owned,In Use,348.0
+EQP042,Tower Crane Unit 42,Tower Crane,Volvo,M405,Owned,In Use,815.72
+EQP043,Mobile Crane Unit 43,Mobile Crane,JCB,M380,Owned,In Use,275.13
+EQP044,Bulldozer Unit 44,Bulldozer,Volvo,M454,Rented,In Use,165.18
+EQP045,Compactor Unit 45,Compactor,Caterpillar,M671,Leased,In Use,662.66
+EQP046,Concrete Pump Unit 46,Concrete Pump,Caterpillar,M391,Leased,In Use,759.59
+EQP047,Generator Unit 47,Generator,JCB,M922,Rented,In Use,301.37
+EQP048,Dump Truck Unit 48,Dump Truck,JCB,M579,Leased,Maintenance,243.59
+EQP049,Excavator Unit 49,Excavator,SANY,M881,Rented,In Use,231.18
+EQP050,Tower Crane Unit 50,Tower Crane,Caterpillar,M739,Rented,In Use,486.73
+EQP051,Mobile Crane Unit 51,Mobile Crane,Hitachi,M463,Owned,Available,446.0
+EQP052,Bulldozer Unit 52,Bulldozer,Caterpillar,M380,Leased,In Use,287.17
+EQP053,Compactor Unit 53,Compactor,Caterpillar,M787,Rented,In Use,124.33
+EQP054,Concrete Pump Unit 54,Concrete Pump,Komatsu,M461,Rented,In Use,455.93
+EQP055,Generator Unit 55,Generator,Liebherr,M395,Owned,Available,819.09
+EQP056,Dump Truck Unit 56,Dump Truck,Caterpillar,M935,Owned,In Use,585.91
+EQP057,Excavator Unit 57,Excavator,JCB,M581,Leased,In Use,466.58
+EQP058,Tower Crane Unit 58,Tower Crane,Volvo,M238,Rented,In Use,174.13
+EQP059,Mobile Crane Unit 59,Mobile Crane,Komatsu,M590,Owned,Available,281.85
+EQP060,Bulldozer Unit 60,Bulldozer,Volvo,M564,Leased,Maintenance,314.03

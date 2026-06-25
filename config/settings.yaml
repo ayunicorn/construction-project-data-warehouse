@@ -1,0 +1,38 @@
+# Version-controlled defaults. Override any operational value with variables in .env.
+pipeline:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  batch_size: 5000
+  random_seed: 42
+
+warehouse:
+  target: postgresql
+  host: localhost
+  port: 5432
+  database: construction_dw
+  user: construction
+  password: construction_dev_password
+  schema: construction_dw
+
+# Empty secrets are intentional. Supply Snowflake credentials only through environment variables.
+snowflake:
+  account: ""
+  user: ""
+  password: ""
+  database: CONSTRUCTION_DW
+  schema: CONSTRUCTION_DW
+  warehouse: COMPUTE_WH
+  role: ""
+
+quality:
+  reject_threshold: 0.05
+  metrics_file: quality_metrics.json
+  progress_min: 0
+  progress_max: 100
+  equipment_hours_min: 0
+  equipment_hours_max: 24
+
+logging:
+  level: INFO
+  max_bytes: 5000000
+  backup_count: 3

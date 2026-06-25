@@ -1,0 +1,21 @@
+contractor_id,contractor_name,specialization,cidb_grade,safety_rating
+CON001,Bina Teguh Engineering Sdn Bhd,Civil & Structural,G7,89.9
+CON002,Maju Jaya Engineering Sdn Bhd,M&E,G7,83.0
+CON003,Cekap Engineering Sdn Bhd,Earthworks,G7,94.0
+CON004,Metro Engineering Sdn Bhd,Rail Systems,G7,76.5
+CON005,Wawasan Engineering Sdn Bhd,Roadworks,G7,72.6
+CON006,Puncak Engineering Sdn Bhd,Building Works,G7,74.4
+CON007,Sentral Engineering Sdn Bhd,Piling,G7,91.5
+CON008,Dinamik Engineering Sdn Bhd,Safety Services,G6,84.5
+CON009,Perkasa Engineering Sdn Bhd,Landscaping,G5,76.4
+CON010,Gemilang Engineering Sdn Bhd,Utilities,G6,85.5
+CON011,Ikhlas Engineering Sdn Bhd,Civil & Structural,G6,76.1
+CON012,Nusantara Engineering Sdn Bhd,M&E,G6,90.8
+CON013,Titan Engineering Sdn Bhd,Earthworks,G7,84.0
+CON014,Amanah Engineering Sdn Bhd,Rail Systems,G6,82.3
+CON015,Progresif Engineering Sdn Bhd,Roadworks,G5,80.1
+CON016,Mega Engineering Sdn Bhd,Building Works,G6,89.0
+CON017,Setia Engineering Sdn Bhd,Piling,G6,81.8
+CON018,Kencana Engineering Sdn Bhd,Safety Services,G7,74.4
+CON019,Prima Engineering Sdn Bhd,Landscaping,G7,75.2
+CON020,Vista Engineering Sdn Bhd,Utilities,G7,98.0
