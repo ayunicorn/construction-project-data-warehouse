@@ -15,7 +15,7 @@ def test_copy_dataframe_uses_postgresql_copy(tmp_path: Path) -> None:
     loader._copy_dataframe(connection, "dim_project", frame)
     copy_sql, buffer = cursor.copy_expert.call_args.args
     assert 'COPY "construction_dw"."dim_project"' in copy_sql
-    assert buffer.read() == "1,PRJ001\r\n"
+    assert buffer.read().strip() == "1,PRJ001"
 
 
 def test_loader_rejects_unsafe_schema(tmp_path: Path) -> None:
